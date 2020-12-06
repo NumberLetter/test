@@ -60,6 +60,7 @@ class Graham
         // Write to CSV file
         void hullToCSV();
 
+        // Run the Graham Scan Algorithm
         void Graham_Scan_Algorithm();
 };
 
